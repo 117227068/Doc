@@ -8,4 +8,4 @@
 //   print("\nThe sum of $argv[1] and $argv[2] is $sum.");
 // ?>
 
-<?php include_once("homepage.html")?>
+<?php include_once("fonts/index.html")?>
